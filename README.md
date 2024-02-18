@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prince-taker
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning Python, C++ and Java.
 - 📫 How to reach me at princelesapo30@gmail.com
 
 <!---
