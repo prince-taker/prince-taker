@@ -1,6 +1,6 @@
 🎓 Computer Science Student | Backend Developer | Community Tech Advocate
 
-Hey, I’m Prince Lesapo — a final-year BSc Mathematical Sciences (Computer Science major) student with a passion for backend development, database design, and using tech to uplift communities.
+Hey, I’m Prince Lesapo — BSc Mathematical Sciences (Computer Science major) student with a passion for backend development, database design, and using tech to uplift communities.
 
 - 🔧 Tech Stack: Java • Spring Boot • PostgreSQL • Python • Git & GitHub • SQL Server
 - 🌍 Currently Building: ThinkAble — an AI-enhanced education platform supporting underserved learners
